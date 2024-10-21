@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeetshee4
+- 👋 Hi, I’m Jeet Shee , an Aspiring Web Developer and Software Engineer..
 - 👀 I’m interested in Web Development and Learning More Cutting Edge Technologies 
 - 🌱 I’m currently learning Full Stack Web Dev 
 - 💞️ I’m looking to collaborate on ...
