@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Learning More Cutting Edge Technologies 
 - 🌱 I’m currently learning Full Stack Web Dev 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me :biswanathshee87@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
