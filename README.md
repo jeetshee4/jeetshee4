@@ -5,7 +5,8 @@
 - 📫 How to reach me :biswanathshee87@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
-[![](https://visitcount.itsvg.in/api?id=jeetshee4&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
+- [![](https://visitcount.itsvg.in/api?id=jeetshee4&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <!---
 jeetshee4/jeetshee4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
