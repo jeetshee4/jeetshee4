@@ -17,7 +17,12 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeetshee4&show_icons=true&locale=en&layout=compact" alt="jeetshee4" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeetshee4&show_icons=true&locale=en" alt="jeetshee4" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeetshee4&" alt="jeetshee4" /></p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamyakMishra072&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Samyak+Mishra+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Aspiring+Software+Development+Engineer+%F0%9F%9A%80;Welcome+to+my+Digital+Playground+%F0%9F%8E%AE" alt="Typing SVG" />
+</div>
 Languages And Tools:
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
