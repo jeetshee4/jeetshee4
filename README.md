@@ -12,15 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Jeet+Shee+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Aspiring+Software+Development+Engineer+%F0%9F%9A%80;Welcome+to+my+Digital+Playground+%F0%9F%8E%AE" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <h3>🧠 Core Skills</h3>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/DSA-0082C9?style=for-the-badge&logo=Leetcode&logoColor=white" alt="DSA">
-  <img src="https://img.shields.io/badge/OS_Concepts-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="OS Concepts">
-</div>
+
 
 <!---
 jeetshee4/jeetshee4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
