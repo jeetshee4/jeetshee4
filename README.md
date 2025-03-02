@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
     <img src="./vite.svg" width=40>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=40  style="filter: invert(1);" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=40/>
-     img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width=40/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=40 />
