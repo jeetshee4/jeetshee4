@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeet Shee , an Aspiring Web Developer and Software Engineer..
+- 👋 Hi, I’m Jeet Shee , an Aspiring Software Developer Engineer and a Technology Enthusiast.
 - 👀 I’m interested in Web Development and Learning More Cutting Edge Technologies 
 - 🌱 I’m currently learning Full Stack Web Dev (MERN) and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
