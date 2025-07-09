@@ -72,6 +72,14 @@ You can click the Preview link to take a look at your changes.
   </a> 
 </p>
 
+<p><h2 style="text-decoration: none; cursor: none;"> 📊 <span style="color: #00c2e0">LeetCode Stats:</span></h2></p>
+
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://leetcard.jacoblin.cool/JeetShee654?theme=dark&font=montserrat&radius=6&ext=heatmap" />
+</div>
+
+
+
 
 
 [![An image of @jeetshee4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jeetshee4)](https://holopin.io/@jeetshee4)
